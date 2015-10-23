@@ -12,10 +12,10 @@ As it mentions in the links below, these are the contributing guidelines that I 
 a shout out to the [Bower](https://github.com/bower/bower/blob/master/CONTRIBUTING.md) project as it has some great
 instructions for how to deal with Pull Requests that i've copied inside my contributing file.
 
-* [Getting Started](CONTRIBUTING.md)
-* [Bug Reports](CONTRIBUTING.md#bug-reports)
-* [Feature Requests](CONTRIBUTING.md#feature-requests)
-* [Pull Requests](CONTRIBUTING.md#pull-requests)
+* [Getting Started](https://github.com/oakensoul/trunk/blob/master/CONTRIBUTING.md)
+* [Bug Reports](https://github.com/oakensoul/trunk/blob/master/CONTRIBUTING.md#bug-reports)
+* [Feature Requests](https://github.com/oakensoul/trunk/blob/master/CONTRIBUTING.md#feature-requests)
+* [Pull Requests](https://github.com/oakensoul/trunk/blob/master/CONTRIBUTING.md#pull-requests)
 
 # LICENSE
 This repository is licensed using the Apache 2.0 License.
